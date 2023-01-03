@@ -19,7 +19,7 @@ All the repositories of this `Learn React With Harshi` series contains the class
 +-- package-lock.json
 ```
 
-## Class Summary
+## Class Summary `Chapter-01 Inception` (24/12/2022)
 
 Chapter-01 (Inception) was the first session of the Namaste React Live course. The whole class was excited about the beginning of a great course. We started learning react from scratch. Environment setup was clearly explained. Started with creating a simple Hello world program . First, using only  html, then we tried to implement the same through javascript. Finally, we created the simple hello worls program using React. It was a true inception session for  tranforming from ZERO to HERO in React.
 
@@ -27,5 +27,9 @@ Chapter-01 (Inception) was the first session of the Namaste React Live course. T
 One line about this chapter : React is very simple, NO PANIC please.
 
 
+
+If you are interested in learning other chapters of this series, please browse through the [my repositories](https://github.com/orgs/Learn-React-With-Harshi/repositories)
+
+If you have any queries/suggestions about my version of this course, please feel free to raise PR. Happy coding !!! 
 
 
