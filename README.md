@@ -1,4 +1,4 @@
-# `Learn React With Harshi` Series 
+# `Learn React With Harshi Series` 
    Documenting my learning journey of Namaste React Live Course conducted by Akshay Saini
    
 ## Theory Assignment: `Chapter - 01 Ienception`
