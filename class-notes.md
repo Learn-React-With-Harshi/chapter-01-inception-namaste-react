@@ -1,4 +1,4 @@
-Summary of today's class:
+## Summary of today's class:
 
 1. Intro about the namaste react course 
 
@@ -13,7 +13,7 @@ prettier
 prettifyjson
 vs-code icons
 
-4. Created html boiler template in vs code using emmet 
+4. Created html boiler template in vs code using emmet and wrote html for printing some text.
 
 5. Wrote a simple js program to print Namaste Everyone in h1 tag inside div container with id root.
   -> used js engine's browser API called document to create h1 element and appendChild to append it to root div
@@ -29,7 +29,7 @@ vs-code icons
   -> create app.js and move our js script there
   -> Now, write the same script in react
 
-  A react element is object with properties which is created by React library
+  A `react element` is object with properties which is created by React library
   const heading = React.createElement("h1", {}, "Namaste Everyone");
 
   const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -37,9 +37,9 @@ vs-code icons
 
   render() function will override the content of the root if there is any content already present in root container
 
-  so until the root is rendered, if we want to disply some error message it can be done.
+  so until the root is rendered, if we want to display some error message, it can be written in html.
 
-  what if we need to put more elements inside the root container - passing array of react elements to the container creation
+  what if we need to put more elements inside the root container - pass array of react elements to the container creation
 
   const heading1 = React.createElement("h1", {id : "title"}, "Namaste Everyone");
   const heading2 = React.createElement("h2", {id : "sub_title"}, "Welcome");
