@@ -1,7 +1,7 @@
-
-# Learn React With Harshi - Learning through Namaste React Live Course conducted by Akshay Saini
-
-## Chapter-01 : Inception 
+# `Learn React With Harshi` Series 
+   Documenting my learning journey of Namaste React Live Course conducted by Akshay Saini
+   
+## Theory Assignment: `Chapter - 01 Ienception`
 All the repositories of this Learn React With Harshi series contains the class notes, coding and theory assignments of Namaste React Live course conducted by *Akshay Saini*. 
 
 
