@@ -25,7 +25,7 @@ Chapter-01 (Inception) was the first session of the Namaste React Live course. T
 
 One line about this chapter : `React is very simple, NO PANIC please.`
 
-
+Check out [Chapter-01 Live](https://learn-react-with-harshi-chapter-01.netlify.app/) for the live demo of this chapter's coding assignment
 
 If you are interested in learning other chapters of this series, please browse through the [my repositories](https://github.com/orgs/Learn-React-With-Harshi/repositories)
 
